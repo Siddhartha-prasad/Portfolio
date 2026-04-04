@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# 🌐 Siddhartha Prasad - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website!  
+This site showcases my projects, skills, and experience as a Full Stack Developer.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Website
+👉 https://portfolio-six-flame-6febrcrzfa.vercel.app/
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 👨‍💻 About Me
+I am a B.Tech student at IIT Dharwad with a passion for building scalable and user-friendly web applications.  
+I specialize in the MERN stack and enjoy solving real-world problems through code.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Frontend
+- React.js
+- Tailwind CSS
+- HTML, CSS, JavaScript
 
-### `npm run build`
+### Backend
+- Node.js
+- Express.js
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Database
+- MongoDB
+- MySQL
+- PostgreSQL
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📂 Projects
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🔹 Notes App
+- Full-stack MERN application
+- CRUD operations with REST API
+- MongoDB Atlas integration
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🔹 Task Manager
+- Task management system
+- Cloud database + deployed backend
+- Built with React, Node.js, Express
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🔹 Manga Reader
+- Manga reading platform
+- Integrated MangaDex API
+- Dark UI with responsive design
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🔹 TinDog
+- Responsive landing page
+- Built using HTML, CSS, Bootstrap
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📸 Features
+- Responsive design
+- Animated background
+- Clean and modern UI
+- Fully deployed on Vercel
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📬 Contact
+- Email: prasadsiddhartha2002@gmail.com  
+- GitHub: https://github.com/Siddhartha-prasad  
+- LinkedIn: https://www.linkedin.com/in/siddhartha-prasad-b47931287  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
